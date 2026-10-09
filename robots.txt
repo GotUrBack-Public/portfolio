@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://damian-proksch.social/sitemap.xml
